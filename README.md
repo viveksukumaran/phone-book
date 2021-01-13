@@ -58,3 +58,7 @@ request body should be a json with following structure
 
 ##### Remove all persons
 `DELETE /api/persons`
+
+### Improvements to be added
+* JWT authentication
+* Testing the endpoints 
